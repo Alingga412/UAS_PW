@@ -1,15 +1,15 @@
 # UAS Pemrograman Web (NIM Genap)
 
 ```
-Riska Puspa Anggraeni Putri
-311910440
-TI.19.A.2
+Alingga Reandito
+312010276
+TI.20.A.2
 Universitas Pelita Bangsa
 ```
 
-## Video Demo Web : https://youtu.be/IXoJY2MYJww
+## Video Demo Web : 
 
-## Link Demo Web : http://puskesmasputri.masuk.id/
+## Link Demo Web : htt
 
 # Akses Admin
 | Username | Password |
