@@ -9,7 +9,7 @@ Universitas Pelita Bangsa
 
 ## Video Demo Web : 
 
-## Link Demo Web : htt
+## Link Demo Web : https://alingga3.my.id/
 
 # Akses Admin
 | Username | Password |
